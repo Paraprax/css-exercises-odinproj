@@ -1,0 +1,20 @@
+.coralClass {
+    background-color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+}
+
+.largeFont {
+    font-size: 44px;
+}
+
+#identity-2 {
+    color: blue;
+    font-size: 38pt;
+}
+
+#identity-4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 22pt;
+}
